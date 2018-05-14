@@ -1,6 +1,9 @@
-### **Python学习笔记**
-> 之前学习Python七零八碎的笔记，主要是记录下方便以后翻阅
 
+
+### **Python学习笔记**
+> 之前学习Python七零八碎的笔记，主要是记录下方便以后翻阅，会不断更新
+
+---
 
 1. [Git小结](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Git%E5%B0%8F%E7%BB%93.md)，当时学习廖雪峰的Git教程记录的笔记
 2. [MySQL小结](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/MYSQL%E5%B0%8F%E7%BB%93.md)，看MySQL必知应会后写的命令小结
