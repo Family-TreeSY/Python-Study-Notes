@@ -26,3 +26,7 @@
 
 9. [sort()和sorted()的区别](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/sort()%E5%92%8Csorted()%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 > sorted()函数和sort()内置函数
+
+10. [函数式编程工具](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
+> map()、filter()、reduce()
+
