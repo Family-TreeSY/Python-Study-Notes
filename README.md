@@ -1,5 +1,4 @@
 
-
 ### **Python学习笔记**
 > 之前学习Python七零八碎的笔记，主要是记录下方便以后翻阅，会不断更新
 
@@ -25,7 +24,5 @@
 > 实例属性属于各个实例所有，互不干扰；
 > 类属性属于类所有，所有实例共享这个属性
 
-
-
-
-
+9. [sort()和sorted()的区别](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/sort()%E5%92%8Csorted()%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+> sorted()函数和sort()内置函数
