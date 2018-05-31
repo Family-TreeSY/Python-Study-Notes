@@ -32,3 +32,8 @@
 
 11.[Python闭包](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Python%E9%97%AD%E5%8C%85.md)
 > 对closure的理解
+
+12. [什么是装饰器？](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%E8%A3%85%E9%A5%B0%E5%99%A8.md)
+> 1、简单装饰器    |   2、带参数的装饰器  | functools.wraps()
+
+
