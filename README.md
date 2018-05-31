@@ -30,3 +30,5 @@
 10. [函数式编程工具](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
 > map()、filter()、reduce()
 
+11.[Python闭包](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Python%E9%97%AD%E5%8C%85.md)
+> 对closure的理解
