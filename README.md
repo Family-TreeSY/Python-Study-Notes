@@ -36,4 +36,7 @@
 12. [什么是装饰器？](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 > 1、简单装饰器    |   2、带参数的装饰器  | functools.wraps()
 
+13. [什么是ORM？](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/ORM.md)
+> ORM的简单理解
+
 
