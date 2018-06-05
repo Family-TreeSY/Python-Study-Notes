@@ -39,4 +39,8 @@
 13. [什么是ORM？](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/ORM.md)
 > ORM的简单理解
 
+14. [Django的QuerySet](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/QuerySet.md)
+> queryset的简单小结
+
+
 
