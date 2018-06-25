@@ -43,4 +43,9 @@
 > queryset的简单小结
 
 15. [@staticmethod和@classmethod的区别](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%40staticmethod%E5%92%8C%40classmethod%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+> @staticmethod  类名.属性（）或方法（）
+> @classmethod cls.属性、方法、实例对象
+
+16. [Python多进程]()
+> 简单了解下多进程
 
