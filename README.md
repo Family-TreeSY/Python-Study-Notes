@@ -42,5 +42,5 @@
 14. [Django的QuerySet](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/QuerySet.md)
 > queryset的简单小结
 
-15. [@staticmethod和@classmethod的区别]()
+15. [@staticmethod和@classmethod的区别](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/%40staticmethod%E5%92%8C%40classmethod%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
