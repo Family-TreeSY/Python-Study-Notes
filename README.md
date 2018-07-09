@@ -52,5 +52,5 @@
 17. [Python多线程](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Python%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
 > 简单了解下多线程
 
-
+18. [Pipenv项目环境与依赖管理工具](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Pipenv.md)
 
