@@ -54,3 +54,9 @@
 
 18. [Pipenv项目环境与依赖管理工具](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/Pipenv.md)
 
+> 环境与依赖管理的神器
+
+19. [初识Celery](https://github.com/Family-TreeSY/Python-Study-Notes/blob/master/celery.md)
+
+> 异步神器
+
