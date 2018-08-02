@@ -150,6 +150,16 @@ All good!
 
 
 
+#### 指定Python版本
+
+```python
+λ pipenv install --python 3
+```
+
+
+
+
+
 欢迎访问[Treehl的博客](https://family-treesy.github.io/)
 
 [GitHub](https://github.com/Family-TreeSY)
